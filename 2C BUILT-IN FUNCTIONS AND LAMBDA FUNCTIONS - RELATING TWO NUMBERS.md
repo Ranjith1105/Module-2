@@ -11,12 +11,19 @@ To create a Python function that takes three arguments a, b, and c, returns thei
 
 ### ALGORITHM
 1.Begin the program.
+
 2.Define a function using def or lambda that takes three parameters: a, b, and c.
+
 3.The function should return the result of a * b * c.
+
 4.Assign the function to a variable named f.
+
 5.Take three numeric inputs from the user.
+
 6.Call the function f with the input values.
+
 7.Display the result.
+
 8.Terminate the program.
 
 ---
