@@ -11,14 +11,23 @@ To create a Python program to print Pascal’s Triangle by getting the number of
 ### ALGORITHM
 
 1.Begin the program.
+
 2.Use input() to read the number of rows from the user.
+
 3.Convert the input to an integer.
-4.Define a function to calculate the factorial of a number (or use math.factorial).
+
+4.Define a function to calculate the factorial of a number.
+
 5.Use nested for loops:
+
     -Outer loop for each row i from 0 to n-1.
+    
     -Inner loop to print spaces for alignment.
+    
     -Another loop to print the values using the formula: C(i, j) = i! / (j! * (i-j)!).
+    
 6.Print each row of the triangle.
+
 7.Terminate the program.
 
 ---
