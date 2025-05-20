@@ -7,13 +7,21 @@ To create a Python program that tests whether a given number is prime or not.
 ###  Algorithm
 
 1.Begin the program.
+
 2.Use input() to read a number from the user.
+
 3.Convert the input to an integer.
+
 4.If the number is less than or equal to 1, it's not prime.
+
 5.Use a for loop from 2 to the square root of the number (inclusive):
+
  If the number is divisible by any of these, it's not prime.
+ 
  If no divisors are found, the number is prime.
+ 
 6.Display the result accordingly.
+
 7.Terminate the program.
 
 ---
