@@ -9,13 +9,21 @@ To create a Python program that defines a function which accepts three values an
 ### ALGORITHM
 
 1.Begin the program.
+
 2.Define a function find_mean(a, b, c) that takes three parameters.
+
 3.Inside the function, compute the mean using the formula: (a + b + c) / 3.
+
 4.Return the mean value.
+
 5.Use input() to read three numbers from the user.
-6.Convert the inputs to float or int.
+
+6.Convert the inputs to float or integer.
+
 7.Call the function with the input values.
+
 8.Print the returned mean value.
+
 9.Terminate the program.
 
 ---
